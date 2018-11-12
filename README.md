@@ -4,3 +4,5 @@ Trabalho sobre o problema da disciplina de Sistemas Operacionais "Jantar dos Fil
 Este é um material de estudo disponível para todos os interessados.
 
 Implementado por Fernando Witt, Mateus Ferreira e Evelin Karpavicius.
+
+Para testes, usou-se o arquivo txt "filosofos.txt".
